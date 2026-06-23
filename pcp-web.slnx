@@ -1,0 +1,17 @@
+<Solution>
+  <Folder Name="/Api/">
+    <Project Path="Pcp.Api/Pcp.Api.csproj" />
+  </Folder>
+  <Folder Name="/Application/">
+    <Project Path="Pcp.Application/Pcp.Application.csproj" />
+  </Folder>
+  <Folder Name="/Domain/">
+    <Project Path="Pcp.Domain/Pcp.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="Pcp.Infrastructure/Pcp.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path="docker-compose.yml" />
+  </Folder>
+</Solution>
